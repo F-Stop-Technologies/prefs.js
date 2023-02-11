@@ -31,6 +31,7 @@ user_pref("browser.tabs.crashReporting.sendReport", false);
 user_pref("browser.tabs.firefox-view", false);
 user_pref("browser.urlbar.groupLabels.enabled", false);
 user_pref("browser.urlbar.quicksuggest.enabled", false);
+user_pref("browser.urlbar.placeholderName", "a search engine"); //so the user is less likely to think they don't have a choice in search.
 user_pref("browser.urlbar.speculativeConnect.enabled", false);
 user_pref("browser.urlbar.trimURLs", false);
 user_pref("datareporting.healthreport.service.enabled", false);
