@@ -1,4 +1,5 @@
 user_pref("app.normandy.api_url", "");
+user_pref("browser.search.defaultenginename", "DuckDuckGo");
 user_pref("app.normandy.enabled", false);
 user_pref("app.shield.optoutstudies.enabled", false);
 user_pref("beacon.enabled", false);
