@@ -1,0 +1,2 @@
+# prefs.js
+Firefox Prefs
